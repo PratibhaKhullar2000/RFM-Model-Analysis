@@ -1,16 +1,16 @@
-# 🧠 RFM Customer Segmentation Project
+#  RFM Customer Segmentation Project
 
 This project performs **RFM (Recency, Frequency, Monetary) analysis** using Python and Power BI to segment customers based on their purchase behavior.
 
 ---
 
-## 📊 Tools Used
+##  Tools Used
 - **Python (Pandas, Matplotlib)** – for data preparation, RFM scoring, and exporting segmentation
 - **Power BI** – for interactive visualization of customer segments
 
 ---
 
-## 📁 Project Files
+##  Project Files
 
 | File Name                    | Description |
 |-----------------------------|-------------|
@@ -22,7 +22,7 @@ This project performs **RFM (Recency, Frequency, Monetary) analysis** using Pyth
 
 ---
 
-## 🧪 Methodology
+##  Methodology
 
 1. **Data Preprocessing** – Load and clean transactional data  
 2. **RFM Scoring** – Score customers based on:
@@ -39,7 +39,7 @@ This project performs **RFM (Recency, Frequency, Monetary) analysis** using Pyth
 
 ---
 
-## 🎯 Business Impact
+##  Business Impact
 
 - 🎁 Personalized campaigns based on customer segment
 - 📉 Reduce churn for "At Risk" customers
@@ -47,7 +47,7 @@ This project performs **RFM (Recency, Frequency, Monetary) analysis** using Pyth
 
 ---
 
-## 📌 Sample Insights
+##  Sample Insights
 
 - Segment distribution using bar chart
 - Top 5 segments by customer count
@@ -55,7 +55,7 @@ This project performs **RFM (Recency, Frequency, Monetary) analysis** using Pyth
 
 ---
 
-## 🙋‍♀️ About Me
+## 🙋‍♀ About Me
 
 👩🏻‍💻 Created by **Pratibha Khullar**  
 📫 [GitHub Profile](https://github.com/PratibhaKhullar2000)
