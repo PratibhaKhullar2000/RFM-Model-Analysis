@@ -41,9 +41,9 @@ This project performs **RFM (Recency, Frequency, Monetary) analysis** using Pyth
 
 ##  Business Impact
 
-- 🎁 Personalized campaigns based on customer segment
-- 📉 Reduce churn for "At Risk" customers
-- 📈 Increase revenue from "Loyal" and "Potential Loyalist" customers
+-  Personalized campaigns based on customer segment
+-  Reduce churn for "At Risk" customers
+-  Increase revenue from "Loyal" and "Potential Loyalist" customers
 
 ---
 
@@ -55,11 +55,8 @@ This project performs **RFM (Recency, Frequency, Monetary) analysis** using Pyth
 
 ---
 
-## 🙋‍♀ About Me
+##  About Me
 
-👩🏻‍💻 Created by **Pratibha Khullar**  
-📫 [GitHub Profile](https://github.com/PratibhaKhullar2000)
+ Created by **Pratibha Khullar**  
+ [GitHub Profile](https://github.com/PratibhaKhullar2000)
 
----
-
-> 💡 Feel free to fork, use, or contribute!
